@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<array>
+	<viagens>
+		<lugares>
+			<titulo> Toronto</titulo>
+			<imagem> toronto.jpg</imagem>
+			<descricao> Toronto é a maior cidade e maior centro financeiro do Canadá, além de capital da província canadense de Ontário</descricao>
+		</lugares>
+		<lugares>
+			<titulo> Ilhas Maldivas</titulo>
+			<imagem> maldivas.jpg</imagem>
+			<descricao> A República das Maldivas é um pequeno país insular situado no Oceano Índico ao sudoeste do Sri Lanka e da Índia, ao sul do continente asiático, constituído por 1.196 ilhas, das quais 203 são habitadas</descricao>
+		</lugares>
+		<lugares>
+			<titulo> Japão</titulo>
+			<imagem> japao.jpg</imagem>
+			<descricao> Japão é um país insular da Ásia Oriental. Localizado no Oceano Pacífico, a leste do Mar do Japão, da República Popular da China, da Coreia do Norte, da Coreia do Sul e da Rússia.</descricao>
+		</lugares>
+		<lugares>
+			<titulo> Valência</titulo>
+			<imagem> valencia.jpg</imagem>
+			<descricao> Valência é um município da Espanha, capital da província homónima e da Comunidade Valenciana. É a cidade mais populosa da sua comunidade autónoma e a terceira mais populosa da Espanha.</descricao>
+		</lugares>
+</viagens>
+</array>
